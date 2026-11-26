@@ -1,11 +1,10 @@
-# Metaphor log
+# Metaphor Log — The One That Remains
 
+## DAY 3 | Conceptual Metaphor Exploration
 
-## DAY 3 | Metaphor Explorations
+The purpose of this exploration was to investigate different ways of understanding the old wall as a metaphor. Each direction highlighted a different aspect of its identity: the traces it carries, the histories it conceals, its relationship with people and the forces that continue to change it.
 
-The purpose of this exploration is to investigate different ways of understanding the old wall as a metaphor. Each direction highlights a different aspect of its identity: the traces it carries, the histories it conceals, the people who have interacted with it, and the forces that continue to change it.
-
-The metaphors are evaluated not only for what they could communicate, but also for what they might overlook or limit.
+The metaphors were evaluated not only for what they could communicate, but also for what they might overlook or limit.
 
 ### 1. The Palimpsest
 
@@ -77,70 +76,33 @@ Repair and preservation become new additions to the wall's history. Attempts to 
 
 It could narrow the project towards damage and repair rather than the wider relationship between people, time, nature and place.
 
-## Initial Observations
+## Metaphor Shortlisting
 
-These metaphors offer different ways of interpreting the same wall:
+The exploration resulted in five directions being retained for further consideration:
 
-- History and accumulation: The Palimpsest, The Archaeological Site.
+- The Palimpsest
+- The Silent Witness
+- The Boundary That Absorbs
+- The Geological Record
+- The Imperfect Restoration
 
-- Human presence and absence: The Silent Witness, The Witness to Absence.
-
-- Space and contradiction: The Boundary That Absorbs.
-
-- Time and nature: The Geological Record.
-
-- Change and preservation: The Imperfect Restoration.
-
-## Metaphor Evaluation & Shortlisting
-
-After examining the seven metaphors against the original aspects of the wall - its accumulated traces, concealed histories, transformation, human connections, relationship with nature and contradictions - five directions were retained for further exploration.
-
-## Refined Metaphor Shortlist
-
-### 1. The Palimpsest
-
-The wall as a surface where different periods of existence overlap, with newer traces concealing but not entirely erasing older ones.
-
-### 2. The Silent Witness
-
-The wall as something that remains present through human activity, carrying evidence without knowing the complete stories behind it.
-
-### 3. The Boundary That Absorbs
-
-The wall as something that separates spaces while continuously receiving influences from the people and environments on either side.
-
-### 4. The Geological Record
-
-The wall as a record of gradual transformation, shaped by weather, time, erosion and environmental conditions.
-
-### 5. The Imperfect Restoration
-
-The wall as something repeatedly repaired and preserved, with every intervention becoming another part of its history.
-
-## Shortlisting Notes
-
-- The Archaeological Site was set aside because its emphasis on excavation and discovery overlaps with the Palimpsest.
-
-- The Witness to Absence was incorporated into the Silent Witness because it represents one aspect of the wall's relationship with human presence.
-
-These five directions will be explored further to understand what each contributes to the identity of The One That Remains.
+The Archaeological Site was set aside because its emphasis on excavation and discovery overlapped with the Palimpsest. The Witness to Absence was incorporated into the Silent Witness, as it represented one aspect of the wall's relationship with human presence.
 
 ## Selected Conceptual Direction
 
-The Palimpsest — The One That Remains
+### The Palimpsest — The One That Remains
 
-The wall is understood as a surface shaped by accumulated histories. Every addition, removal, repair and environmental change becomes part of its continuing existence. New traces alter what came before, but do not necessarily erase it completely.
-
-This interpretation brings together the wall's relationship with time, human presence, nature, concealment and transformation.
+The Palimpsest was selected because it brings together the wall's accumulated histories, concealment and continuous transformation. It understands the wall as a surface where new traces alter what came before without necessarily erasing it completely.
 
 The Silent Witness and The Boundary That Absorbs remain useful supporting interpretations, offering additional perspectives on the wall's relationship with people and its surroundings.
 
+---
 
 ## DAY 4 | Computational Metaphor Exploration
 
-The Palimpsest - The One That Remains
+### Moving from Conceptual to Computational Metaphors
 
-The next stage explores computational concepts that could express the wall's accumulation, concealment, persistence and transformation.
+With the Palimpsest selected as the primary conceptual direction, the next stage explored computational concepts that could express its underlying ideas. The focus shifted towards processes that could represent accumulation, concealment, persistence and transformation.
 
 ### 1. Accumulated Data / Layered Memory
 
@@ -202,21 +164,21 @@ A system whose current state and future responses are influenced by its previous
 
 It could become an abstract simulation of cause and effect without retaining the physical identity of the wall.
 
-## Initial Observations
+## Initial Shortlisting
 
-Three directions initially stood out for further consideration:
+Three directions initially stood out:
 
-- Overwriting and Data Persistence: The persistence of older traces beneath newer changes.
+- Overwriting and Data Persistence
+- Path Dependency / Hysteresis
+- Signal Interference and Noise
 
-- Path Dependency / Hysteresis: How the wall's past influences its future.
+Diffusion and Erosion was also taken forward because it offered a distinct perspective on the wall's relationship with environmental influences.
 
-- Signal Interference and Noise: How accumulated traces overlap and become difficult to interpret.
-
-Diffusion and Erosion also offered a distinct way to explore the wall's relationship with environmental influences and was retained for further evaluation.
+This brought four directions into the next stage of exploration.
 
 ## Further Exploration
 
-The four directions were taken forward for further exploration to understand how their underlying concepts could translate into computational behaviours.
+The four directions were examined in greater depth to understand how their underlying concepts could translate into computational behaviours and whether they remained connected to the wall's identity.
 
 ### 1. Overwriting and Data Persistence
 
@@ -258,18 +220,18 @@ Overlapping traces becoming fragmented or difficult to distinguish, while still 
 
 It could become focused on distortion and visual complexity rather than the physical history of the wall.
 
-## Shortlisting Notes
+## Final Computational Shortlisting
 
-- Accumulated Data / Layered Memory was set aside because its focus on accumulation overlaps with the Palimpsest and Overwriting and Data Persistence.
+After further exploration, three directions were retained:
 
-- Entropy and Information Decay was set aside because it focuses primarily on deterioration and loss.
+- **Overwriting and Data Persistence** — for its exploration of persistence and concealment.
+- **Path Dependency / Hysteresis** — for its exploration of how previous conditions influence future changes.
+- **Diffusion and Erosion** — for its exploration of environmental transformation.
 
-- Overwriting and Data Persistence was retained for its exploration of persistence and concealment.
+The other three were set aside for the following reasons:
 
-- Path Dependency / Hysteresis was retained for its exploration of how the past influences future changes.
-
-- Diffusion and Erosion was retained for its exploration of environmental transformation.
-
-- Signal Interference and Noise was set aside for now because its focus on interpretation and visual distortion offers a less direct connection to the physical transformation of the wall.
+- **Accumulated Data / Layered Memory** — its focus on accumulation overlapped with the Palimpsest and Overwriting and Data Persistence.
+- **Entropy and Information Decay** — it focused primarily on deterioration and loss, leaving less room for the wall's accumulation and repair.
+- **Signal Interference and Noise** — its focus on interpretation and visual distortion offered a less direct connection to the physical transformation of the wall.
 
 These three computational metaphors will be carried forward as independent directions for further generative exploration.
