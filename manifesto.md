@@ -1,4 +1,4 @@
-# Manifesto
+# Manifesto - Version 1
 
 
 
