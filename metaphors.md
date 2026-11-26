@@ -1,6 +1,7 @@
-# DAY 3
+# Metaphor log
 
-## Metaphor Exploration — The One That Remains
+
+## DAY 3 | Metaphor Explorations
 
 The purpose of this exploration is to investigate different ways of understanding the old wall as a metaphor. Each direction highlights a different aspect of its identity: the traces it carries, the histories it conceals, the people who have interacted with it, and the forces that continue to change it.
 
@@ -134,9 +135,8 @@ This interpretation brings together the wall's relationship with time, human pre
 
 The Silent Witness and The Boundary That Absorbs remain useful supporting interpretations, offering additional perspectives on the wall's relationship with people and its surroundings.
 
-# DAY 4
 
-## Computational Metaphor Exploration
+## DAY 4 | Computational Metaphor Exploration
 
 The Palimpsest - The One That Remains
 
