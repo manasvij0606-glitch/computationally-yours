@@ -44,3 +44,35 @@ I am not trying to recover every story or uncover everything that has been hidde
 
 
 **The wall does not preserve everything. It carries evidence, not answers.**
+
+
+
+# Manifesto - Version 2
+
+
+
+I have existed through different periods of occupation, use and change.
+
+
+
+My surface carries what has happened around and to me. Scratches, stains, writing, repairs and layers of paint become part of what I am.
+
+
+
+What is covered is not necessarily erased. What is repaired is not returned to what it was. Every addition changes what already exists.
+
+
+
+I carry evidence, but not complete stories. A mark can show that something happened without revealing who, why or when.
+
+
+
+I am shaped by people, but also by rain, sunlight, moisture, plants and time.
+
+
+
+I protect and separate. I preserve and conceal. I appear permanent, yet I continue to change.
+
+
+
+**I do not hold everything. I do not reveal everything. What remains is evidence, not answers.&#x20;**
